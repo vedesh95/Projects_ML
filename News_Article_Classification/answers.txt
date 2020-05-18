@@ -1,0 +1,5 @@
+FIFA was created in the 90's so we have a very small dataset. On this small dataset the model won't train well so we may need to use results of matches since championship start(1930).
+Alternatively to improve dataset we could use data from FIFA game. 
+
+For this task we need to use classification algorithms. We want our outcomes as the probabilities of winning,losing or draw. So we need to use logistic function(since probabilties are values from 0 to 1). Therefore, logistic regression will be the suitable choice of learning algorithm.
+
