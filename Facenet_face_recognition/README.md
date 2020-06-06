@@ -6,6 +6,6 @@ python3 main.py
 
 ## DEPENDENCIES RUN IN CONDA PROMPT  
 Facenet h5 file  
-[PIL download click here](conda install -c conda-forge pillow)  
-[MTCNN click here](conda install -c conda-forge mtcnn)  
+PIL : conda install -c conda-forge pillow 
+MTCNN : conda install -c conda-forge mtcnn
 
