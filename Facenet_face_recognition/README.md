@@ -12,9 +12,7 @@ python3 main.py
  ### Original test images
  ![](https://github.com/vedesh95/Projects_ML/blob/master/Facenet_face_recognition/5-celebrity-faces-dataset/val/harsh/harsh_1.jpg)
  ![](https://github.com/vedesh95/Projects_ML/blob/master/Facenet_face_recognition/5-celebrity-faces-dataset/val/himanshu/himan_3.jpg)
- ![](https://github.com/vedesh95/Projects_ML/blob/master/Facenet_face_recognition/5-celebrity-faces-       dataset/val/vedesh/WhatsApp%20Image%202020-06-06%20at%208.59.28%20AM.jpg)  
-
- 
+ ![](https://github.com/vedesh95/Projects_ML/blob/master/Facenet_face_recognition/5-celebrity-faces-dataset/val/vedesh/ved.jpg)  
  
 ### Example of Output
 ### ![Example of Output](https://github.com/vedesh95/Projects_ML/blob/master/Facenet_face_recognition/Screenshot%20(121).png)
