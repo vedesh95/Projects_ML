@@ -9,10 +9,6 @@ python3 main.py
 [PIL](https://anaconda.org/conda-forge/pillow) : conda install -c conda-forge pillow  
 [MTCNN](https://anaconda.org/conda-forge/mtcnn) : conda install -c conda-forge mtcnn  
  
- ### Original test images
- ![](https://github.com/vedesh95/Projects_ML/blob/master/Facenet_face_recognition/5-celebrity-faces-dataset/val/harsh/harsh_1.jpg)
- ![](https://github.com/vedesh95/Projects_ML/blob/master/Facenet_face_recognition/5-celebrity-faces-dataset/val/himanshu/himan_3.jpg)
- ![](https://github.com/vedesh95/Projects_ML/blob/master/Facenet_face_recognition/5-celebrity-faces-dataset/val/vedesh/ved.jpg)  
  
 ### Example of Output
 ### ![Example of Output](https://github.com/vedesh95/Projects_ML/blob/master/Facenet_face_recognition/Screenshot%20(121).png)
