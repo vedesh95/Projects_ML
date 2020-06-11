@@ -9,5 +9,5 @@ python3 main.py
 [PIL](https://anaconda.org/conda-forge/pillow) : conda install -c conda-forge pillow  
 [MTCNN](https://anaconda.org/conda-forge/mtcnn) : conda install -c conda-forge mtcnn  
 
-
+### Example of Output
 ### ![Example of Output](https://github.com/vedesh95/Projects_ML/blob/master/Facenet_face_recognition/Screenshot%20(121).png)
