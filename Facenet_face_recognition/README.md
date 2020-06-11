@@ -10,4 +10,4 @@ python3 main.py
 [MTCNN](https://anaconda.org/conda-forge/mtcnn) : conda install -c conda-forge mtcnn  
 
 
-![Example of Output](https://github.com/vedesh95/Projects_ML/blob/master/Facenet_face_recognition/Screenshot%20(121).png)
+### ![Example of Output](https://github.com/vedesh95/Projects_ML/blob/master/Facenet_face_recognition/Screenshot%20(121).png)
