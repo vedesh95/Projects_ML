@@ -1,0 +1,4 @@
+demographic:
+ wealth_segment gender job_title past_3_years_bike_related_purchases job_industry_category
+Transactions
+ product_class product_size product_line brand

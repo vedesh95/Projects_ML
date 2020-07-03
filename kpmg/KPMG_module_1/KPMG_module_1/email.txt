@@ -1,0 +1,67 @@
+Issues with CustomerAddress Excel File
+	The excel file contained unwanted headers.It has been removed.The coulmns did not contain any missing values.So I think its ready.
+
+Issues with CustomerDemographic Excel File
+	The excel file contained unwanted headers.It has been removed.Column on right denotes the missng values.
+	customer_id                              0
+    first_name                               0
+    last_name                              125
+    gender                                   0
+    past_3_years_bike_related_purchases      0
+    DOB                                     87
+    job_title                              506
+    job_industry_category                  656
+    wealth_segment                           0
+    deceased_indicator                       0
+    default                                302
+    owns_car                                 0
+    tenure                                  87
+    
+    missing values of all various categories such as last_name has been taken care of with the help of pandas     ffill or bfill method. Missing value of tenure is replaced by its mean. 
+
+Issues with New_Customer Excel File
+	The excel file contained unwanted headers.It has been removed.The excel file contained unwanted headers.It     has been removed.Column on right denotes the missng values.
+    first_name                               0
+    last_name                               29
+    gender                                   0
+    past_3_years_bike_related_purchases      0
+    DOB                                     17
+    job_title                              106
+    job_industry_category                  165
+    wealth_segment                           0
+    deceased_indicator                       0
+    owns_car                                 0
+    tenure                                   0
+    address                                  0
+    postcode                                 0
+    state                                    0
+    country                                  0
+    property_valuation                       0
+    NaN                                      0
+    NaN                                      0
+    NaN                                      0
+    NaN                                      0
+    NaN                                      0
+    Rank                                     0
+    Value                                    0
+    missing values of all various categories such as last_name has been taken care of with the help of pandas     ffill or bfill method. Missing value of tenure is replaced by its mean. 
+    
+
+Issues with Transactions Excel File
+    The excel file contained unwanted headers.It has been removed.The excel file contained unwanted headers.It     has been removed.Column on right denotes the missng values.
+    transaction_id               0
+    product_id                   0
+    customer_id                  0
+    transaction_date             0
+    online_order               360
+    order_status                 0
+    brand                      197
+    product_line               197
+    product_class              197
+    product_size               197
+    list_price                   0
+    standard_cost              197
+    product_first_sold_date    197
+    
+    missing values of online_order,standard_cost and product_first_sold_date are replaced by there mean.
+    missing values of other columns are replaced by ffil or bfill method of pandas.
